@@ -19,14 +19,14 @@ Connect with me:
 
 ### Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,vue,html,css,tailwind,bootstrap,python,flask,express,docker,kubernetes,postgres,mongodb,redis,git,github,figma" alt="tech-icons" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,html,css,tailwind,python,express,docker,kubernetes,postgres,mongodb,redis,git,github,figma" alt="tech-icons" />
 </p>
 
 
 ### What I build
 - Web apps with React, Next.js, and Tailwind — focus on performance & accessibility
 - APIs and backend services using Node.js / NestJS / PostgreSQL / MongoDB
-- Automation & scraping tools using Puppeteer / Playwright / Python
+- Automation & scraping tools using n8n / make.com / Playwright / Python
 - Cloud-native deployments: Docker, CI/CD pipelines, and serverless functions
 - AI-assisted developer workflows and prototype ML integrations
 
