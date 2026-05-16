@@ -24,6 +24,16 @@ A results-driven Software Engineer who builds delightful apps and automations wi
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,tailwind,vite&theme=dark" alt="Frontend"/>
 
+**Automation**
+
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-avatar/avatars/n8n.webp" height="30px" /></td>
+    <td><img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/make-color.png" height="35px" /></td>
+    <td><img src="https://playwright.dev/img/playwright-logo.svg" height="40px" /></td>
+  </tr>
+</table>
+
 **Backend & Databases**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,mysql,mongodb,supabase,firebase,prisma,redis&theme=dark" alt="Backend & Databases"/>
@@ -41,11 +51,7 @@ A results-driven Software Engineer who builds delightful apps and automations wi
 
 </div>
 
-<div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fitiha&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Natnael Fisseha W. top languages"/>
-
-</div>
 
 
 
