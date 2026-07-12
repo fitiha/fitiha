@@ -47,7 +47,7 @@ A results-driven Software Engineer who builds delightful apps and automations wi
 
 <div align="center">
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=fitiha&theme=highcontrast&hide_border=true&border_radius=16.7" alt="GitHub Streak" /></a>
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=fitiha&theme=highcontrast&hide_border=true&border_radius=16.7" alt="GitHub Streak" /></a>
 
 </div>
 
