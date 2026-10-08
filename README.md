@@ -12,7 +12,7 @@
 
 ### About
 
-A results-driven Software Engineer who builds delightful apps and automations with a focus on great UI/UX and scalable architecture. I love taking ideas from prototype to production, mentoring others, and applying AI to reduce repetitive work.
+A results-driven Software Engineer who builds delightful apps and automations with a focus on great interface and scalable architecture. I love taking ideas from prototype to production and applying AI to reduce repetitive work.
 
 ### Stack
 
